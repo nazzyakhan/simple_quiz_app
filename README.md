@@ -1,6 +1,6 @@
 # Flutter Quiz App 📝✨
 
-Welcome to the Flutter Quiz App! This sleek and intuitive quiz application is built using Flutter, allowing you to create, play, and enjoy quizzes on various topics right from your device!
+Welcome to the Flutter Widgets Quiz App! This stylish and interactive quiz application is built using Flutter, allowing you to test your knowledge about Flutter widgets right from your device!
 
 ## Features 🚀
 
